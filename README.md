@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-lol noob shizz
+lol noob
